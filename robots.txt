@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gobefogiyaci.netlify.app/sitemap.xml
